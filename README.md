@@ -1,0 +1,2 @@
+This is a simple website that will show different recipes with ingredient lists and instructions.
+By the end of this project, I will have demonstrated how to make a simple website in HTML, how to refer to other pages within the website, how to display images, make unordered and ordered lists.
